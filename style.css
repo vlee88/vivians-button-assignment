@@ -1,0 +1,15 @@
+/*Your CSS code goes below this line*/
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .one{font-size: 12px;}
+  .two{font-size: 12px;}
+  .three{font-size: 12px;}
